@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Jukebox
+comment0.text=\n\ Write\ a\ description\ of\ class\ Jukebox\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=player\ user\ collection\ ts
+comment1.target=Jukebox(CDPlayer,\ User,\ java.util.Set,\ SongSelector)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Jukebox\n
+comment2.params=
+comment2.target=Song\ getCurrentSong()
+numComments=3

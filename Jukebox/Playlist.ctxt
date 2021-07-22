@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Playlist
+comment0.text=\n\ Write\ a\ description\ of\ class\ Playlist\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Playlist()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Playlist\n
+comment2.params=s
+comment2.target=Playlist(Song)
+comment3.params=list
+comment3.target=Playlist(java.util.List)
+comment4.params=s\ list
+comment4.target=Playlist(Song,\ java.util.List)
+comment5.params=
+comment5.target=void\ currentSongEnds()
+comment6.params=
+comment6.target=Song\ getPlaying()
+comment7.params=s
+comment7.target=void\ queueUpSong(Song)
+comment8.params=
+comment8.target=void\ shuffle()
+numComments=9

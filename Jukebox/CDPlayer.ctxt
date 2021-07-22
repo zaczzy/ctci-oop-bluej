@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CDPlayer
+comment0.text=\n\ Write\ a\ description\ of\ class\ CDPlayer\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=c\ p
+comment1.target=CDPlayer(CD,\ Playlist)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CDPlayer\n
+comment2.params=s
+comment2.target=void\ playSong(Song)
+comment2.text=\n\ Do\ nothing\ at\ our\ logic\ level,\ call\ the\ actual\ song\ player\ driver\n\ \n
+comment3.params=
+comment3.target=Playlist\ getPlaylist()
+comment4.params=
+comment4.target=Song\ getCurrentSong()
+numComments=5

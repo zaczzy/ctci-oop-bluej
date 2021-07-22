@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CD
+comment0.text=\n\ Write\ a\ description\ of\ class\ CD\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=artist\ songs
+comment1.target=CD(java.lang.String,\ java.util.ArrayList)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CD\n
+comment2.params=artist
+comment2.target=CD(java.lang.String)
+comment3.params=s
+comment3.target=void\ addSong(Song)
+comment4.params=
+comment4.target=int\ size()
+numComments=5
